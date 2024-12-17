@@ -370,6 +370,7 @@ a {
 
 .modal_btn:hover {
     box-shadow: 3px 4px 11px 0px #00000040;
+	opacity: 80%;
 }
 
 .modal_btnA {
@@ -382,6 +383,7 @@ a {
 
 .modal_btnA:hover {
     box-shadow: 3px 4px 11px 0px #00000040;
+	opacity: 80%;
 }
 
 .modal_btnB {
@@ -394,6 +396,7 @@ a {
 
 .modal_btnB:hover {
     box-shadow: 3px 4px 11px 0px #00000040;
+	opacity: 80%;
 }
 
 .modal_btnC {
@@ -406,6 +409,7 @@ a {
 
 .modal_btnC:hover {
     box-shadow: 3px 4px 11px 0px #00000040;
+	opacity: 80%;
 }
 
 .modal_image {
